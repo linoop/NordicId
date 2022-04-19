@@ -22,7 +22,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.linoop:NordicId:1.1'
+	        implementation 'com.github.linoop:NordicId:version'
 	}
 ```
 [![](https://jitpack.io/v/linoop/NordicId.svg)](https://jitpack.io/#linoop/NordicId)
